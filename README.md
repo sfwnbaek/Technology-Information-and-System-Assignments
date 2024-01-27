@@ -1,20 +1,25 @@
 # Assignments Reflection
 
-<h2>Assignment 1 (Poster) - Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.<h2>
-this blalbalbalbalbalbablaba
+Assignment 1 (Poster) - Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.
+---------------------------------------------------------------------------
 
 
-<b>Assignment 2 (Video) - Video on Virtual Talk</b>
+Assignment 2 (Video) - Video on Virtual Talk
+---------------------------------------------------
 
 
-<b>Assignment 3 (Report) - System Development @ Credence (TM Subsidiary)</b>
+Assignment 3 (Report) - System Development @ Credence (TM Subsidiary)
+---------------------------------------------------------------------
 
 
-<b>Assignment 4 (Newsletter) - NEWSLETTER on Industrial Visit </b>
+Assignment 4 (Newsletter) - NEWSLETTER on Industrial Visit
+----------------------------------------------------------
 
 
-<b>PC Assemble</b>
+PC Assemble
+-----------
 
 
-<b>Design Thinking</b>
+Design Thinking
+---------------
 
