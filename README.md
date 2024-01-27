@@ -1,6 +1,6 @@
 # Assignments Reflection
 
-<h4>Assignment 1 (Poster) - Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.<h4>
+<h3>Assignment 1 (Poster) - Overview of ICT Jobs in Clarity Techworks Sdn. Bhd.<h3>
 
 
 <b>Assignment 2 (Video) - Video on Virtual Talk</b>
